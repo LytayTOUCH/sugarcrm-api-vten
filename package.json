@@ -1,6 +1,6 @@
 {
   "name": "sugarcrm-api-vten",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The module is used for request and get respone dicrectly form sugarcrm server.",
   "main": "index.js",
   "scripts": {
@@ -12,9 +12,9 @@
     "v10'"
   ],
   "homepage": "https://github.com/LytayTOUCH/sugarcrm-api-vten",
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/LytayTOUCH/sugarcrm-api-vten"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LytayTOUCH/sugarcrm-api-vten"
   },
   "author": "Lytay <lytaytouch@gmail.com>",
   "license": "ISC",
