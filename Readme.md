@@ -5,11 +5,11 @@
   - Detail below ... (Update later)
 
 ## Package Dependencies
-  - request package to use requesting and handling response data as needed. 
+  - request package to use requesting and handling response data as needed.
 
 ## About Owner
   - Author: Lytay TOUCH
   - Email: lytaytouch@gmail.com
 
-### Publish Year
+## Publish Year
   @March 2017
