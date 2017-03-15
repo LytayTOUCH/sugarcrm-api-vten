@@ -1,0 +1,19 @@
+{
+  "name": "sugarcrm-api-vten",
+  "version": "1.0.0",
+  "description": "The module is used for request and get respone dicrectly form sugarcrm server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "'SugarCRM'",
+    "'RestAPI",
+    "v10'"
+  ],
+  "author": "lytaytouch",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
